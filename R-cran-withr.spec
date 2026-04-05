@@ -4,7 +4,7 @@
 Summary:	Run code with temporarily modified global state
 Name:		R-cran-%{modulename}
 Version:	3.0.2
-Release:	2
+Release:	3
 License:	MIT
 Group:		Applications/Math
 Source0:	https://cran.r-project.org/src/contrib/%{modulename}_%{fversion}.tar.gz
